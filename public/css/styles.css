@@ -1,0 +1,53 @@
+button {
+  color: white;
+  margin-left: 20px;
+  margin-top: 30px;
+  width: 50px;
+  height: 40px;
+}
+
+.error-page-container {
+  border-radius: 30px;
+  border: solid 2px black;
+  display: flex;
+  align-items: center;
+  font-style: italic;
+  color: red;
+  flex-direction: column;
+}
+
+.weather-page-container {
+  padding: 30px;
+  border-radius: 30px;
+  border: solid 3px #753188;
+  background-color: rgba(142, 5, 194, 0.2);
+}
+.homepage-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border: solid #753188;
+  border-radius: 30px;
+  background-color: rgba(142, 5, 194, 0.2);
+  margin-top: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.btn-homepage {
+  background-color: purple;
+  color: white;
+  width: fit-content;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+.btn-homepage {
+  background-color: purple;
+  width: fit-content;
+}
